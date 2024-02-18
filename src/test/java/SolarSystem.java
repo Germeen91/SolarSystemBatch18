@@ -25,6 +25,12 @@ public class SolarSystem {
         gecko.color="magenta";
         gecko.temp="34343443434k";
         gecko.size="342344342m";
+
+
+        habiby MySon=new habiby();
+        MySon.age=9;
+        MySon.high=4;
+        MySon.wight=40;
         
     }
 }
